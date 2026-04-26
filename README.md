@@ -37,6 +37,14 @@
 * ↓
 * Генерация обратной связи
 
+⚙️ **Используемые технологии**
+* Python
+* Linux ( в оффлайн версии)
+* Gradio (UI)
+* LLM: GigaChat API, Perplexity API
+* Avatars: HeyGen, DI-ID
+* Google Colab Pro
+
 
 
 
